@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "147507623570",
+    "project_id": "burn2earn",
+    "storage_bucket": "burn2earn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147507623570:android:c3e314dccd6f610ff8d84b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rnPhvcEZUnJxKlfALYuwSwRW7RzXatQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147507623570-e5gjvhbtgn467t96npr63adkh9ee07it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseDemo2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147507623570:android:002e1b4e34b7c8caf8d84b",
+        "android_client_info": {
+          "package_name": "com.metafycial.apps.b2e_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rnPhvcEZUnJxKlfALYuwSwRW7RzXatQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147507623570-e5gjvhbtgn467t96npr63adkh9ee07it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseDemo2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147507623570:android:bc55098192543fa0f8d84b",
+        "android_client_info": {
+          "package_name": "com.metafycial.apps.burn2earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rnPhvcEZUnJxKlfALYuwSwRW7RzXatQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147507623570-iatg18trl12rg28m974dbj6duvr5q67e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147507623570-e5gjvhbtgn467t96npr63adkh9ee07it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseDemo2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
